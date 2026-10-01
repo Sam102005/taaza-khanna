@@ -1,3 +1,2 @@
-# Taaza-K
-hanna
+# Taaza-Khanna
 FOOD ORDERING PLATFORM
